@@ -1,0 +1,17 @@
+{
+  "name": "node-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "10-fs-sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "install": "^0.13.0",
+    "lodash": "^4.17.21"
+  }
+}

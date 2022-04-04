@@ -1,0 +1,46 @@
+Meeting 3/21
+當學習JavaScript需要更多練習時：
+
+1. 題目可從專案的例子或流程去做發想及練習。
+
+
+VUE.js 
+前端在瀏覽器執行JS，將VUE翻譯成JS可解讀的東西
+
+PHP 另一種前端開發語言(蠻受歡迎的)[處理動態前端工作]
+or 與資料庫的API => VUE也是類似的東西
+
+
+basic: HTML、CSS => 瀏覽器只看得懂的
+advanced => Framework(like PHP、VUE)
+
+
+QA:
+
+Me: 學習進度持續
+
+Lewis: 差進度規劃、不那麼清楚
+
+TR：連結共乘系統 => 實際應用 學更有感覺
+
+這學期預計的目標：
+
+嘗試以共乘系統作為練習及實作
+
+剛開始不完全有概念，但嘗試用已知的東西做成小雛形
+
+EG: 輸入資料到資料庫 會用到甚麼概念，想像得到的
+
+=> 需要另一個實作的架構structure
+
+**Done is better than perfect
+
+
+offload v 卸載
+trivial a 瑣碎的
+iffy a 不確定的
+arbitrary a 隨意的
+gibberish n 胡言亂語
+infomercial n 商業廣告
+
+3/21 npm intro 1:46:57
