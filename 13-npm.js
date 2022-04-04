@@ -20,7 +20,7 @@ const items = [1, [2, [3, [4]]]]
 const newitems = _.flattenDeep(items);
 
 console.log(newitems)
-
+console.log("hello people")
 /*
 The Importance of package.json
 => we can just share the code without dragging the massive
