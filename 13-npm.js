@@ -21,3 +21,8 @@ const newitems = _.flattenDeep(items);
 
 console.log(newitems)
 
+/*
+The Importance of package.json
+=> we can just share the code without dragging the massive
+node modules folder with us
+ */
