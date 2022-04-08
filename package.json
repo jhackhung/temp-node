@@ -4,7 +4,7 @@
   "description": "",
   "main": "10-fs-sync.js",
   "scripts": {
-    "start": "nodemon 13-npm.js"
+    "start": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
