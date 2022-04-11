@@ -1,8 +1,7 @@
-Meeting 3/21
+3/21 Meeting 
 當學習JavaScript需要更多練習時：
 
 1. 題目可從專案的例子或流程去做發想及練習。
-
 
 VUE.js 
 前端在瀏覽器執行JS，將VUE翻譯成JS可解讀的東西
@@ -43,3 +42,21 @@ arbitrary a 隨意的
 gibberish n 胡言亂語
 infomercial n 商業廣告
 
+(在家之前發現Next.js)
+4/11 Meeting
+
+1. 關心近況，學習的進度
+2. 時間管理的重要性，移動得更快 相對論
+
+UPDATING：
+Event loop：歷史介紹
+事件迴圈，算是先回傳函式，然後我們不知道他確切時間執行結束
+
+Async：所以有了非同步之後，就能大概知道傳回的時間是執行結束的時間 
+
+Blocking and non-blocking：以前傳統，blocking時會導致所有process停止
+
+宥安學習進度：HTML、CSS
+
+Next Month Planning:
+These week what I learn, and try to think how to use them on our project
