@@ -60,3 +60,6 @@ Blocking and non-blocking：以前傳統，blocking時會導致所有process停�
 
 Next Month Planning:
 These week what I learn, and try to think how to use them on our project
+
+
+// 5:48:38 https://www.youtube.com/watch?v=Oe421EPjeBE
